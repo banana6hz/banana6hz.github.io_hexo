@@ -1,6 +1,6 @@
 # banana6hz.github.io
 
-### https://banana6hz.github.io/
+#### open https://banana6hz.github.io/
 
 * hexo clean 
 * hexo generate
